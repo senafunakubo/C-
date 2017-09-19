@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Test/Test/bin/Debug/Test.exe
+/Users/senafunakubo/Projects/Test/Test/bin/Debug/Test.pdb
+/Users/senafunakubo/Projects/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Test/Test/obj/x86/Debug/Test.exe
+/Users/senafunakubo/Projects/Test/Test/obj/x86/Debug/Test.pdb
