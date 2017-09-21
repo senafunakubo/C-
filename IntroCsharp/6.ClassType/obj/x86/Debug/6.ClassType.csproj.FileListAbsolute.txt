@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/6.ClassType/bin/Debug/6.ClassType.exe
+/Users/senafunakubo/Projects/IntroCsharp/6.ClassType/bin/Debug/6.ClassType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/6.ClassType/obj/x86/Debug/6.ClassType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/6.ClassType/obj/x86/Debug/6.ClassType.exe
+/Users/senafunakubo/Projects/IntroCsharp/6.ClassType/obj/x86/Debug/6.ClassType.pdb

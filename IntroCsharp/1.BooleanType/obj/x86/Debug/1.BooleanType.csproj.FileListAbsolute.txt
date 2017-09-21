@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/1.BooleanType/bin/Debug/1.BooleanType.exe
+/Users/senafunakubo/Projects/IntroCsharp/1.BooleanType/bin/Debug/1.BooleanType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/1.BooleanType/obj/x86/Debug/1.BooleanType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/1.BooleanType/obj/x86/Debug/1.BooleanType.exe
+/Users/senafunakubo/Projects/IntroCsharp/1.BooleanType/obj/x86/Debug/1.BooleanType.pdb

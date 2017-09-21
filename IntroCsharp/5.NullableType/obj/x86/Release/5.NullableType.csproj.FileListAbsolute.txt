@@ -1,0 +1,3 @@
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/bin/Release/5.NullableType.exe
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Release/5.NullableType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Release/5.NullableType.exe

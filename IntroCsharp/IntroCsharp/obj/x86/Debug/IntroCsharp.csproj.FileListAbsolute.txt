@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/IntroCsharp/bin/Debug/IntroCsharp.exe
+/Users/senafunakubo/Projects/IntroCsharp/IntroCsharp/bin/Debug/IntroCsharp.pdb
+/Users/senafunakubo/Projects/IntroCsharp/IntroCsharp/obj/x86/Debug/IntroCsharp.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/IntroCsharp/obj/x86/Debug/IntroCsharp.exe
+/Users/senafunakubo/Projects/IntroCsharp/IntroCsharp/obj/x86/Debug/IntroCsharp.pdb

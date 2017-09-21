@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/2.ByteType/bin/Debug/2.ByteType.exe
+/Users/senafunakubo/Projects/IntroCsharp/2.ByteType/bin/Debug/2.ByteType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/2.ByteType/obj/x86/Debug/2.ByteType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/2.ByteType/obj/x86/Debug/2.ByteType.exe
+/Users/senafunakubo/Projects/IntroCsharp/2.ByteType/obj/x86/Debug/2.ByteType.pdb

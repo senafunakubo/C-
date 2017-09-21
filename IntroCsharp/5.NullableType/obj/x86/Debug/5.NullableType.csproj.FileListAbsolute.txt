@@ -1,0 +1,6 @@
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/bin/Debug/5.NullableType.exe
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/bin/Debug/5.NullableType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Debug/5.NullableType.csprojResolveAssemblyReference.cache
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Debug/5.NullableType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Debug/5.NullableType.exe
+/Users/senafunakubo/Projects/IntroCsharp/5.NullableType/obj/x86/Debug/5.NullableType.pdb

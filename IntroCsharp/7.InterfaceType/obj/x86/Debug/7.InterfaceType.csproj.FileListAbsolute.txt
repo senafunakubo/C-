@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/7.InterfaceType/bin/Debug/7.InterfaceType.exe
+/Users/senafunakubo/Projects/IntroCsharp/7.InterfaceType/bin/Debug/7.InterfaceType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/7.InterfaceType/obj/x86/Debug/7.InterfaceType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/7.InterfaceType/obj/x86/Debug/7.InterfaceType.exe
+/Users/senafunakubo/Projects/IntroCsharp/7.InterfaceType/obj/x86/Debug/7.InterfaceType.pdb

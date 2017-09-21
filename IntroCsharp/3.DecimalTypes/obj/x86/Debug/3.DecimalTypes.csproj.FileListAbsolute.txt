@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/3.DecimalTypes/bin/Debug/3.DecimalTypes.exe
+/Users/senafunakubo/Projects/IntroCsharp/3.DecimalTypes/bin/Debug/3.DecimalTypes.pdb
+/Users/senafunakubo/Projects/IntroCsharp/3.DecimalTypes/obj/x86/Debug/3.DecimalTypes.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/3.DecimalTypes/obj/x86/Debug/3.DecimalTypes.exe
+/Users/senafunakubo/Projects/IntroCsharp/3.DecimalTypes/obj/x86/Debug/3.DecimalTypes.pdb

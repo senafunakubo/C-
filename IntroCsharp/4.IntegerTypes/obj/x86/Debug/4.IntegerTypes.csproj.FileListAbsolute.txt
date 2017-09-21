@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/4.IntegerTypes/bin/Debug/4.IntegerTypes.exe
+/Users/senafunakubo/Projects/IntroCsharp/4.IntegerTypes/bin/Debug/4.IntegerTypes.pdb
+/Users/senafunakubo/Projects/IntroCsharp/4.IntegerTypes/obj/x86/Debug/4.IntegerTypes.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/4.IntegerTypes/obj/x86/Debug/4.IntegerTypes.exe
+/Users/senafunakubo/Projects/IntroCsharp/4.IntegerTypes/obj/x86/Debug/4.IntegerTypes.pdb
