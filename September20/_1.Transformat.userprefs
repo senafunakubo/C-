@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{D1BEDF6F-4AA4-4C3F-9EF9-0A114A76FF68}|Default">
+  <MonoDevelop.Ide.ItemProperties.__1.Transformat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_3.ConversionParse/Program.cs">
+    <Files>
+      <File FileName="_1.Transformat/Program.cs" Line="27" Column="1" />
+      <File FileName="_2.NumberConversions/Program.cs" Line="9" Column="29" />
+      <File FileName="_3.ConversionParse/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_1.Transformat" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.__2.NumberConversions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

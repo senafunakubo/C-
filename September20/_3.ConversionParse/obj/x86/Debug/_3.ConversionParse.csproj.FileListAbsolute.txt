@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/_1.Transformat/_3.ConversionParse/bin/Debug/_3.ConversionParse.exe
+/Users/senafunakubo/Projects/_1.Transformat/_3.ConversionParse/bin/Debug/_3.ConversionParse.pdb
+/Users/senafunakubo/Projects/_1.Transformat/_3.ConversionParse/obj/x86/Debug/_3.ConversionParse.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/_1.Transformat/_3.ConversionParse/obj/x86/Debug/_3.ConversionParse.exe
+/Users/senafunakubo/Projects/_1.Transformat/_3.ConversionParse/obj/x86/Debug/_3.ConversionParse.pdb

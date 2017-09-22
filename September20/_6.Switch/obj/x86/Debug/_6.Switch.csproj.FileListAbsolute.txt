@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/_1.Transformat/_6.Switch/bin/Debug/_6.Switch.exe
+/Users/senafunakubo/Projects/_1.Transformat/_6.Switch/bin/Debug/_6.Switch.pdb
+/Users/senafunakubo/Projects/_1.Transformat/_6.Switch/obj/x86/Debug/_6.Switch.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/_1.Transformat/_6.Switch/obj/x86/Debug/_6.Switch.exe
+/Users/senafunakubo/Projects/_1.Transformat/_6.Switch/obj/x86/Debug/_6.Switch.pdb

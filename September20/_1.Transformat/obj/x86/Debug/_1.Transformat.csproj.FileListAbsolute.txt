@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/_1.Transformat/_1.Transformat/bin/Debug/_1.Transformat.exe
+/Users/senafunakubo/Projects/_1.Transformat/_1.Transformat/bin/Debug/_1.Transformat.pdb
+/Users/senafunakubo/Projects/_1.Transformat/_1.Transformat/obj/x86/Debug/_1.Transformat.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/_1.Transformat/_1.Transformat/obj/x86/Debug/_1.Transformat.exe
+/Users/senafunakubo/Projects/_1.Transformat/_1.Transformat/obj/x86/Debug/_1.Transformat.pdb
