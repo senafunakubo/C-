@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Loops/2.ForLoopFactorial/bin/Debug/2.ForLoopFactorial.exe
+/Users/senafunakubo/Projects/Loops/2.ForLoopFactorial/bin/Debug/2.ForLoopFactorial.pdb
+/Users/senafunakubo/Projects/Loops/2.ForLoopFactorial/obj/x86/Debug/2.ForLoopFactorial.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Loops/2.ForLoopFactorial/obj/x86/Debug/2.ForLoopFactorial.exe
+/Users/senafunakubo/Projects/Loops/2.ForLoopFactorial/obj/x86/Debug/2.ForLoopFactorial.pdb

@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Loops/Loops/bin/Debug/Loops.exe
+/Users/senafunakubo/Projects/Loops/Loops/bin/Debug/Loops.pdb
+/Users/senafunakubo/Projects/Loops/Loops/obj/x86/Debug/1.WhileLoop.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Loops/Loops/obj/x86/Debug/Loops.exe
+/Users/senafunakubo/Projects/Loops/Loops/obj/x86/Debug/Loops.pdb

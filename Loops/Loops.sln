@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.WhileLoop", "Loops\1.WhileLoop.csproj", "{66AB488D-0E2B-479D-BBB8-878E1588B038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ForLoopFactorial", "2.ForLoopFactorial\2.ForLoopFactorial.csproj", "{CE19CBA6-D6CB-4DDD-AD68-4C24F6B05AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AB488D-0E2B-479D-BBB8-878E1588B038}.Debug|x86.ActiveCfg = Debug|x86
+		{66AB488D-0E2B-479D-BBB8-878E1588B038}.Debug|x86.Build.0 = Debug|x86
+		{66AB488D-0E2B-479D-BBB8-878E1588B038}.Release|x86.ActiveCfg = Release|x86
+		{66AB488D-0E2B-479D-BBB8-878E1588B038}.Release|x86.Build.0 = Release|x86
+		{CE19CBA6-D6CB-4DDD-AD68-4C24F6B05AF5}.Debug|x86.ActiveCfg = Debug|x86
+		{CE19CBA6-D6CB-4DDD-AD68-4C24F6B05AF5}.Debug|x86.Build.0 = Debug|x86
+		{CE19CBA6-D6CB-4DDD-AD68-4C24F6B05AF5}.Release|x86.ActiveCfg = Release|x86
+		{CE19CBA6-D6CB-4DDD-AD68-4C24F6B05AF5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
