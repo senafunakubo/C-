@@ -1,0 +1,3 @@
+/Users/senafunakubo/Projects/Arrays/4.Comparator/obj/x86/Release/4.Comparator.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Arrays/4.Comparator/bin/Release/4.Comparator.exe
+/Users/senafunakubo/Projects/Arrays/4.Comparator/obj/x86/Release/4.Comparator.exe

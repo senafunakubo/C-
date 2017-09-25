@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Operators/2.IfElse/bin/Debug/2.IfElse.exe
+/Users/senafunakubo/Projects/Operators/2.IfElse/bin/Debug/2.IfElse.pdb
+/Users/senafunakubo/Projects/Operators/2.IfElse/obj/x86/Debug/2.IfElse.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Operators/2.IfElse/obj/x86/Debug/2.IfElse.exe
+/Users/senafunakubo/Projects/Operators/2.IfElse/obj/x86/Debug/2.IfElse.pdb

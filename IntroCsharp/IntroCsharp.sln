@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.ClassType", "6.ClassType\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.InterfaceType", "7.InterfaceType\7.InterfaceType.csproj", "{6DA81370-3A3E-4DE2-8BF0-1CC0592D2BC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.DelegateType", "8.DelegateType\8.DelegateType.csproj", "{4CA0B9A7-84AC-46D3-9CFF-356DAD69E03E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,5 +57,9 @@ Global
 		{6DA81370-3A3E-4DE2-8BF0-1CC0592D2BC2}.Debug|x86.Build.0 = Debug|x86
 		{6DA81370-3A3E-4DE2-8BF0-1CC0592D2BC2}.Release|x86.ActiveCfg = Release|x86
 		{6DA81370-3A3E-4DE2-8BF0-1CC0592D2BC2}.Release|x86.Build.0 = Release|x86
+		{4CA0B9A7-84AC-46D3-9CFF-356DAD69E03E}.Debug|x86.ActiveCfg = Debug|x86
+		{4CA0B9A7-84AC-46D3-9CFF-356DAD69E03E}.Debug|x86.Build.0 = Debug|x86
+		{4CA0B9A7-84AC-46D3-9CFF-356DAD69E03E}.Release|x86.ActiveCfg = Release|x86
+		{4CA0B9A7-84AC-46D3-9CFF-356DAD69E03E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/IntroCsharp/8.DelegateType/bin/Debug/8.DelegateType.exe
+/Users/senafunakubo/Projects/IntroCsharp/8.DelegateType/bin/Debug/8.DelegateType.pdb
+/Users/senafunakubo/Projects/IntroCsharp/8.DelegateType/obj/x86/Debug/8.DelegateType.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/IntroCsharp/8.DelegateType/obj/x86/Debug/8.DelegateType.exe
+/Users/senafunakubo/Projects/IntroCsharp/8.DelegateType/obj/x86/Debug/8.DelegateType.pdb

@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/_1.Transformat/_2.NumberConversions/bin/Debug/_2.NumberConversions.exe
+/Users/senafunakubo/Projects/_1.Transformat/_2.NumberConversions/bin/Debug/_2.NumberConversions.pdb
+/Users/senafunakubo/Projects/_1.Transformat/_2.NumberConversions/obj/x86/Debug/_2.NumberConversions.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/_1.Transformat/_2.NumberConversions/obj/x86/Debug/_2.NumberConversions.exe
+/Users/senafunakubo/Projects/_1.Transformat/_2.NumberConversions/obj/x86/Debug/_2.NumberConversions.pdb

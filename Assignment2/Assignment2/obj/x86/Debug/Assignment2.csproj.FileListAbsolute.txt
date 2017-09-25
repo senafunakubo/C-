@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Assignment2/Assignment2/bin/Debug/Assignment2.exe
+/Users/senafunakubo/Projects/Assignment2/Assignment2/bin/Debug/Assignment2.pdb
+/Users/senafunakubo/Projects/Assignment2/Assignment2/obj/x86/Debug/Assignment2.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Assignment2/Assignment2/obj/x86/Debug/Assignment2.exe
+/Users/senafunakubo/Projects/Assignment2/Assignment2/obj/x86/Debug/Assignment2.pdb

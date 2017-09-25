@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/1.PassByValue/1.PassByValue/bin/Debug/1.PassByValue.exe
+/Users/senafunakubo/Projects/1.PassByValue/1.PassByValue/bin/Debug/1.PassByValue.pdb
+/Users/senafunakubo/Projects/1.PassByValue/1.PassByValue/obj/x86/Debug/1.PassByValue.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/1.PassByValue/1.PassByValue/obj/x86/Debug/1.PassByValue.exe
+/Users/senafunakubo/Projects/1.PassByValue/1.PassByValue/obj/x86/Debug/1.PassByValue.pdb

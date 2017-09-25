@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Arrays/Matrix/bin/Debug/Matrix.exe
+/Users/senafunakubo/Projects/Arrays/Matrix/bin/Debug/Matrix.pdb
+/Users/senafunakubo/Projects/Arrays/Matrix/obj/x86/Debug/Matrix.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Arrays/Matrix/obj/x86/Debug/Matrix.exe
+/Users/senafunakubo/Projects/Arrays/Matrix/obj/x86/Debug/Matrix.pdb

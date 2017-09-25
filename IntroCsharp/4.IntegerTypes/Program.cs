@@ -40,7 +40,7 @@ namespace IntegerTypes
 					   //When a variable of object is converted to value
 					   //its said as unboxing
 			Console.WriteLine(o1);
-			Console.WriteLine(o1.GetType());
+			Console.WriteLine(o1.GetType()); // float = single??
 			Console.Read();
 		}
     }

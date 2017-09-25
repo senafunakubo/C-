@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/senafunakubo/Projects/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/senafunakubo/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/Users/senafunakubo/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.pdb

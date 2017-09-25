@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Arrays/3.JaggedArray/bin/Debug/3.JaggedArray.exe
+/Users/senafunakubo/Projects/Arrays/3.JaggedArray/bin/Debug/3.JaggedArray.pdb
+/Users/senafunakubo/Projects/Arrays/3.JaggedArray/obj/x86/Debug/3.JaggedArray.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Arrays/3.JaggedArray/obj/x86/Debug/3.JaggedArray.exe
+/Users/senafunakubo/Projects/Arrays/3.JaggedArray/obj/x86/Debug/3.JaggedArray.pdb

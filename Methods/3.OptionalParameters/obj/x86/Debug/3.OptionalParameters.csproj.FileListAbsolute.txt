@@ -1,0 +1,6 @@
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/bin/Debug/3.OptionalParameters.exe
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/bin/Debug/3.OptionalParameters.pdb
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/obj/x86/Debug/3.OptionalParameters.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/obj/x86/Debug/3.OptionalParameters.exe
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/obj/x86/Debug/3.OptionalParameters.pdb
+/Users/senafunakubo/Projects/1.PassByValue/3.OptionalParameters/obj/x86/Debug/3.OptionalParameters.csprojResolveAssemblyReference.cache

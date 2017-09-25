@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Operators/Operators/bin/Debug/Operators.exe
+/Users/senafunakubo/Projects/Operators/Operators/bin/Debug/Operators.pdb
+/Users/senafunakubo/Projects/Operators/Operators/obj/x86/Debug/1.LogicalOperators.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Operators/Operators/obj/x86/Debug/Operators.exe
+/Users/senafunakubo/Projects/Operators/Operators/obj/x86/Debug/Operators.pdb
