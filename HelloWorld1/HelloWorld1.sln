@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld1", "HelloWorld1\HelloWorld1.csproj", "{3471D369-89DC-4C07-90FE-F5C28AE3FEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld1.Droid", "Droid\HelloWorld1.Droid.csproj", "{CE1EA960-1470-46F2-8269-225981B04570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3471D369-89DC-4C07-90FE-F5C28AE3FEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3471D369-89DC-4C07-90FE-F5C28AE3FEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3471D369-89DC-4C07-90FE-F5C28AE3FEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3471D369-89DC-4C07-90FE-F5C28AE3FEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1EA960-1470-46F2-8269-225981B04570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1EA960-1470-46F2-8269-225981B04570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1EA960-1470-46F2-8269-225981B04570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1EA960-1470-46F2-8269-225981B04570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

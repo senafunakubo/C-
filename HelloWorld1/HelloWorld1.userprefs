@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CE1EA960-1470-46F2-8269-225981B04570}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld1/HelloWorld1Page.xaml">
+    <Files>
+      <File FileName="HelloWorld1/HelloWorld1Page.xaml" Line="40" Column="1" />
+      <File FileName="HelloWorld1/HelloWorld1Page.xaml.cs" Line="10" Column="33" />
+      <File FileName="HelloWorld1/App.xaml.cs" Line="12" Column="48" />
+      <File FileName="HelloWorld1/greatPage.xaml.cs" Line="12" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld1.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
