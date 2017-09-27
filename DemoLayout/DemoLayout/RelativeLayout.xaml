@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoLayout.RelativeLayout">
+    <RelativeLayout>
+        <BoxView Color="Blue"
+                 x:Name="Banner"
+                 RelativeLayout.WidthConstraint ="
+                 {ConstraintExpression Type= RelativeToParent, 
+                                       Property = Width,
+                                       Factor = 1,  
+                                       Constant = 0}"
+                 RelativeLayout.HeightConstraint ="
+                 {ConstraintExpression Type= RelativeToParent, 
+                                       Property = Height,
+                                       Factor = 0.3  
+                                       }"/>
+        <BoxView Color="Yellow"
+                 RelativeLayout.YConstraint ="
+                 {ConstraintExpression Type= RelativeToView,
+                                        Property = Height,
+                                        Factor = 1,
+                                        Constant = 50,
+                                        ElementName = Banner}"/>
+    </RelativeLayout>
+</ContentPage>
+        
+<!--            Factor=1 means "1* Parent.Width - 0"-->
+<!--            Factor=0.3 means "3* Parent.Height" 3=0.3-->
+
