@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AF692C4E-8806-4D38-A3DD-72F641AE8366}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListEx/ListExPage.xaml">
+    <Files>
+      <File FileName="ListEx/ListExPage.xaml.cs" Line="34" Column="4" />
+      <File FileName="ListEx/ListExPage.xaml" Line="17" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ListEx.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListEx.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16930822-91A1-4693-95A9-5AD601A64CC0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ListEx.iOS>
+</Properties>
