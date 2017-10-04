@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{FCA2E00F-362A-4D5F-A695-77E9FBBF89D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Images/ImagesPage.xaml.cs">
+    <Files>
+      <File FileName="Images/ImagesPage.xaml" Line="41" Column="1" />
+      <File FileName="Images/ImagesPage.xaml.cs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Images.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Images.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16930822-91A1-4693-95A9-5AD601A64CC0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Images.iOS>
+</Properties>
