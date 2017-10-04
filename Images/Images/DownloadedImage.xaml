@@ -5,37 +5,32 @@
     x:Class="Images.DownloadedImage">
 
     
-    <AbsoluteLayout>
-<StackLayout>
-        <StackLayout Orientation="Horizontal">
-            <StackLayout Padding="40,40,20,20">
+<AbsoluteLayout>
+   
+        <StackLayout Orientation="Horizontal"
+            AbsoluteLayout.LayoutBounds="0,0,1,50"
+            AbsoluteLayout.LayoutFlags="WidthProportional">
+<!--            proportional... %, otherwise the others are pixcels-->
+                
+           
                 <Button Text="←"
                         BackgroundColor="White"
-                        HorizontalOptions="Start"/>
-            </StackLayout>
+                        HorizontalOptions="StartAndExpand"/>
 
-            <ActivityIndicator Color="Black"
-                               IsRunning="false"
-                               IsVisible="false"
-                               x:Name="indicator"
-                               HorizontalOptions="Center" />
-            
-            <StackLayout Padding="100,40,40,40">
                 <Button Text="→"
                         BackgroundColor="White"
-                        HorizontalOptions="Start"/>
-            </StackLayout>
-        </StackLayout>
-</StackLayout>
+                        HorizontalOptions="EndAndExpand"/>
 
-        <!--<ActivityIndicator IsRunning="{Binding Source={x:Reference i1}, Path=IsLoading}"
-                           AbsoluteLayout.LayoutBounds="0.5,0.5,100,100"
-                           AbsoluteLayout.LayoutFlags="PositionProportional"/>-->
-
-        <StackLayout Padding="40,150,0,0">
-            <Image x:Source="{local:ImageResource Images.beach.jpg}" 
-                   x:Name="embeddedImage"/>
+                
         </StackLayout>
- </AbsoluteLayout>
+
+            <Image 
+                   x:Source="{local:ImageResource Images.beach.jpg}" 
+                   x:Name="embeddedImage"
+                   AbsoluteLayout.LayoutBounds="0,1,1,1"
+                   AbsoluteLayout.LayoutFlags="SizeProportional" />
+  
+        
+</AbsoluteLayout>
     
 </ContentPage>
