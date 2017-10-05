@@ -1,0 +1,5 @@
+/Users/senafunakubo/Projects/Testtt/Testtt/bin/Debug/Testtt.exe
+/Users/senafunakubo/Projects/Testtt/Testtt/bin/Debug/Testtt.pdb
+/Users/senafunakubo/Projects/Testtt/Testtt/obj/x86/Debug/Testtt.csproj.CoreCompileInputs.cache
+/Users/senafunakubo/Projects/Testtt/Testtt/obj/x86/Debug/Testtt.exe
+/Users/senafunakubo/Projects/Testtt/Testtt/obj/x86/Debug/Testtt.pdb
